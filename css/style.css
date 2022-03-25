@@ -1,0 +1,22 @@
+.img-cool {
+    border: 5px dotted black;
+    border-radius: 10%;
+}
+
+.h2-impar {
+    color: rgb(54, 42, 165);    
+}
+
+.h2-par {
+    color: blue;    
+}
+
+.h1-borde {
+    border-style: solid; 
+    border-width: 5px;
+    border-color: purple; 
+}
+
+.center-text { 
+    text-align: center; 
+}
